@@ -2,7 +2,8 @@
 ## Month distribution in data
 ![image](https://github.com/VGriga/bank_review_classification/assets/126509201/4bb0f123-4a9c-4d9e-85be-e04f3472e282)
 ## Top 15 banks in dataset, with corresponding rating
-![image](https://github.com/VGriga/bank_review_classification/assets/126509201/552ec5ae-726c-453c-b227-574179c8231b)
+![image](https://github.com/VGriga/bank_review_classification/assets/126509201/8e988133-5e98-41f6-9ec8-65ae95449bbc)
+
 ## Top 5 banks dependence of mean rating per month 
 ![image](https://github.com/VGriga/bank_review_classification/assets/126509201/f97701b3-5e9b-4290-873c-e65b801d6512)
 ## Labels distribution
