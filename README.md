@@ -14,3 +14,15 @@
 
 # Main part
 
+| Method | LR on punctuation | LR+TF-IDF | LR+TF-IDF+Lem | LR+TF-IDF+GRID|
+| ----- | ----- | ----- | ----- | ------ |
+| ROC-AUC | 0.6754 | 0.9792 | 0.9776 | 0.9846 |
+
+![image](https://github.com/VGriga/bank_review_classification/assets/126509201/f950eacf-d0e2-40a2-8356-d93cfca91f06)
+
+![image](https://github.com/VGriga/bank_review_classification/assets/126509201/80a2aa0e-fc46-4d5b-b08f-e1bacfe94e4d)
+
+![image](https://github.com/VGriga/bank_review_classification/assets/126509201/686dbabe-a263-47b3-9796-8d0b57424bf9)
+
+![image](https://github.com/VGriga/bank_review_classification/assets/126509201/54c09b58-127e-4d9d-82d6-03ec628ea46a)
+
