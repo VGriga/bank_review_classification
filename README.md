@@ -11,5 +11,13 @@
 ![image](https://github.com/VGriga/bank_review_classification/assets/126509201/4fce4e39-cb50-46c3-ab96-bf4164045a3a)
 ![image](https://github.com/VGriga/bank_review_classification/assets/126509201/8fe7133e-5963-4cbd-8ef1-3343a7b7b2d6)
 
-
+# Main part
+$${\begin{table}[]
+\begin{tabular}{lllll}
+ &  &  &  &  \\
+ &  &  &  &  \\
+ &  &  &  &  \\
+ &  &  &  & 
+\end{tabular}
+\end{table}}$$
 
